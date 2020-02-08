@@ -2,6 +2,5 @@
 title: Home
 ---
 
-# The Butler
+# Milan Manavat
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
